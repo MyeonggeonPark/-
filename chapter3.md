@@ -44,3 +44,4 @@ $$E[X + Y] = E[X] + E[Y]$$
 > 라고 생각하면 기댓값을 쉽게 구할수 있다.   
 > $$E[X] = X[Z_{1} + Z_{2} + \cdots + Z_{n}] = E[Z_{1}] + [Z_{2}] + \cdots + E[Z_{n}] = \underbrace{p + \cdots + p}_{n\ \text{개}} = np$$   
 
+
